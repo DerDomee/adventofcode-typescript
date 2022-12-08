@@ -1,0 +1,4 @@
+challenges/
+node_modules/
+
+.env
